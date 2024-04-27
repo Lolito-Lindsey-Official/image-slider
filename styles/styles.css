@@ -11,15 +11,15 @@
 }
 
 .slide1 {
-	background-image: url();
+	background-image: url("/image-slider/images/pexels-irina-iriser-1060413.jpg");
 }
 
 .slide2 {
-	background-image: url();
+	background-image: url("/image-slider/images/pexels-irina-iriser-709689.jpg");
 }
 
 .slide3 {
-	background-image: url();
+	background-image: url("/image-slider/images/pexels-irina-iriser-977304.jpg");
 }
 
 .arrow {
@@ -34,14 +34,14 @@
 
 #arrow-left {
 	border-width: 20px 30px 20px 0;
-	border-color: transparent #fff transparent transparent;
+	border-color: transparent #adadad transparent transparent;
 	left: 0;
 	margin-left: 20px;
 }
 
 #arrow-right {
 	border-width: 20px 0 20px 30px;
-	border-color: transparent transparent transparent #fff;
+	border-color: transparent transparent transparent #adadad;
 	right: 0;
 	margin-right: 20px;
 }
